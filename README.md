@@ -4,4 +4,4 @@ Image recognition using computer vision (Python and openCV lib) and design of PD
 
 Codes were used in the development of the following work:
 **Linear and Nonlinear control of a Visual Servoing system with Pan-Tilt Structure
-Published on IEEE Xplore: https://ieeexplore.ieee.org/document/9993948
+Published on IEEE Xplore: https://ieeexplore.ieee.org/document/9993948**
