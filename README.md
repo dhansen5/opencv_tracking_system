@@ -6,4 +6,5 @@ Codes were used in the development of the following work:
 
 **Linear and Nonlinear control of a Visual Servoing system with Pan-Tilt Structure**
 
-Published on IEEE Xplore: https://ieeexplore.ieee.org/document/9993948
+Presented in the 10th International Conference on Systems and Control (ICSC) and
+Published on IEEE Xplore: https://ieeexplore.ieee.org/document/9993948 
